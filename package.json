@@ -1,9 +1,9 @@
 {
-  "name": "oj-mustache",
+  "name": "oj.mustache",
   "version": "0.0.1",
   "main": "src/oj.mustache.js",
   "description": "Mustache plugin for oj",
-  "homepage": "http://github.com/ojjs/oj-mustache/",
+  "homepage": "ojjs.org",
   "keywords": [
     "oj",
     "mustache"
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ojjs/oj-mustache.git"
+    "url": "git://github.com/ojjs/oj.mustache.git"
   }
 }
