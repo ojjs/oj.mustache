@@ -1,0 +1,27 @@
+{
+  "name": "oj-mustache",
+  "version": "0.0.1",
+  "main": "src/oj.mustache.js",
+  "description": "Mustache plugin for oj",
+  "homepage": "http://github.com/ojjs/oj-mustache/",
+  "keywords": [
+    "oj",
+    "mustache"
+  ],
+  "author": "Evan Moran <evan@evanmoran.com>",
+  "dependencies": {
+    "mustache": "latest"
+  },
+  "devDependencies": {
+    "oj":"latest",
+    "underscore":"latest",
+    "coffee-script": "~1.6.1",
+    "mocha": "~1.1.0",
+    "chai": "~1.0.3",
+    "jquery": "~1.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ojjs/oj-mustache.git"
+  }
+}
