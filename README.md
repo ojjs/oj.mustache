@@ -1,5 +1,4 @@
-
-# oj-mustache
+# oj.mustache
 
 A mustache plugin for oj. In a perfect world you wouldn't need mustache when you have oj. Well the world isn't perfect. Good luck out there.
 
