@@ -14,8 +14,7 @@ A mustache plugin for oj. In a perfect world you wouldn't need mustache when you
 
 Note: You can pass the arguments in any order. Objects will be unioned into a view. The string will be assumed to be a template.
 
-## Not Yet Implemented
+## Docs
 
-* Consider a way to precompile
-* Consider using [https://github.com/raycmorgan/Mu](https://github.com/raycmorgan/Mu)
+[ojjs.org/plugins#mustache](http://ojjs.org/plugins#mustache)
 
