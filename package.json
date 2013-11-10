@@ -1,7 +1,7 @@
 {
   "name": "oj-mustache",
-  "version": "0.7.2",
-  "main": "src/oj.mustache.js",
+  "version": "0.7.3",
+  "main": "oj.mustache.js",
   "description": "Mustache plugin for OJ",
   "homepage": "http://ojjs.org",
   "keywords": [

@@ -1,0 +1,24 @@
+{
+  "name": "oj-mustache",
+  "version": "0.7.3",
+  "main": "oj.mustache.js",
+  "homepage": "http://ojjs.org/plugins.html#mustache",
+  "authors": [
+    "Evan Moran <evan@evanmoran.com>"
+  ],
+  "description": "Mustache plugin for OJ",
+  "keywords": [
+    "oj",
+    "plugin",
+    "mustache"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    "bower_components",
+    "package.json",
+    "node_modules"
+  ]
+}
